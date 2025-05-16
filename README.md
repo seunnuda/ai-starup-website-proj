@@ -28,3 +28,14 @@ Updating Index.html File
 Invitation to Tom and Jerry for Collaboration
 ![TomAndJerryInvited](./img/6.InvitationToTomandJerryForCollaboration.png)
 
+Tom Create Branch Update Navigation
+![TomCreateBranch](./img/7.TomCreateBranchUpdateNavigation.png)
+
+Tom Opening Index.html File for Update
+![TomOpeningIndexFile](./img/8.TomOpeningIndexhtml.png)
+
+Tom Adding Navigation To Index.html File
+![TomAddingNavigationIndexFile](./img/9.TomAddingNavigationToWebsite.png)
+
+Tom Staging Work Done on Branch For Commit
+![TomStageBranch](./img/10.TomStagingWorkDoneOnBranchUpdateNavigation.png)
