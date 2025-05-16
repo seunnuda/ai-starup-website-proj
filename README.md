@@ -49,3 +49,25 @@ Jerry Create Branch Add Contact Info
 Jerry Open Index.html And Add Contact Info To Index File
 ![JerryOpeningIndexFile](./img/13.JerryOpeningIndexhtml.png)
 ![JerryAddContactInfoIndexFile](./img/14.JerryAddingContactInfoIndexhtml.png)
+
+Jerry Stage Commit And Push Branch Add Contact Info To Main
+![JerryStateCommitAndPushBranchToMain](./img/15.JerryStageCommitandPushBranchToMain.png)
+
+Creating Pull Request For Tom Branch Update Navigation
+![CreatePullRequestForTomBranch](./img/16.CreatingPullRequestForTomBranchUpdateNavigation.png)
+
+Merge PULL Request For Tom Work
+![MergeTomWorkPullRequest](./img/17.MergePullRequestForTomBranchUpdateNavigation.png)
+
+Tom Branch Successflly Merged
+![PullRequestMerged](./img/19.TomBranchUpdateNavigationSuccessfullyMerged.png)
+
+Compare Pull Request Jerry Branch Add Contact Info
+![PullRequestJerryBranch](./img/20.ComparingAndPullRequestJerryBranchAddContactInfo.png)
+![CreatePullRequest](./img/21.CreatePullRequestJerryBranch.png)
+
+Merge Jerry Branch Add Contact Info
+![MergeJerryBranch](./img/22.MergeJerryBranchPullRequest.png)
+
+Pull Request Successfully Merged
+![PullRequestMerged](./img/23.PullRequestSuccessfullyMerged.png)
