@@ -39,3 +39,13 @@ Tom Adding Navigation To Index.html File
 
 Tom Staging Work Done on Branch For Commit
 ![TomStageBranch](./img/10.TomStagingWorkDoneOnBranchUpdateNavigation.png)
+
+Tom Commit And Push His Branch To Main Branch For Review
+![TomCommitandPushBranchToMain](./img/11.TomCommit&PushBranchToMain.png)
+
+Jerry Create Branch Add Contact Info
+![JerryCreateBranchAddContactInfo](./img/12.JerryCreateBranchAddContactInfo.png)
+
+Jerry Open Index.html And Add Contact Info To Index File
+![JerryOpeningIndexFile](./img/13.JerryOpeningIndexhtml.png)
+![JerryAddContactInfoIndexFile](./img/14.JerryAddingContactInfoIndexhtml.png)
