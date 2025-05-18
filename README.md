@@ -28,6 +28,12 @@ Updating Index.html File
 Invitation to Tom and Jerry for Collaboration
 ![TomAndJerryInvited](./img/6.InvitationToTomandJerryForCollaboration.png)
 
+Tom Accept and Copy Repository from GitHub
+![TomCopyRepoForCloning](./img/24.TomAcceptAndCopyRepo.png)
+
+Tom Cloning Repository on Local Machine
+![TomClonedRepo](./img/25.TomClonedRepo.png)
+
 Tom Create Branch Update Navigation
 ![TomCreateBranch](./img/7.TomCreateBranchUpdateNavigation.png)
 
@@ -42,6 +48,15 @@ Tom Staging Work Done on Branch For Commit
 
 Tom Commit And Push His Branch To Main Branch For Review
 ![TomCommitandPushBranchToMain](./img/11.TomCommit&PushBranchToMain.png)
+
+Jerry Accepting Invitation
+![JerryAcceptInvite](./img/26.JerryAcceptInvite.png)
+
+Jerry Copied From GitHub
+![JerryCopyRepo](./img/27.JerryCopyRepo.png)
+
+Jerry Cloned Repository On Local Machine
+![JerryClonedRepo](./img/28.JerryClonedRepo.png)
 
 Jerry Create Branch Add Contact Info
 ![JerryCreateBranchAddContactInfo](./img/12.JerryCreateBranchAddContactInfo.png)
