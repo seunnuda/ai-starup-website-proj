@@ -71,7 +71,10 @@ Jerry Stage Commit And Push Branch Add Contact Info To Main
 Creating Pull Request For Tom Branch Update Navigation
 ![CreatePullRequestForTomBranch](./img/16.CreatingPullRequestForTomBranchUpdateNavigation.png)
 
-Merge PULL Request For Tom Work
+Tom PR Reviewed Prepared For Merge After No Conflict With Main Branch
+![NoConflictsWithBaseBranch](./img/29.NoConcliftsWithBaseBranch.png)
+
+Merge PULL Request For Tom Branch
 ![MergeTomWorkPullRequest](./img/17.MergePullRequestForTomBranchUpdateNavigation.png)
 
 Tom Branch Successflly Merged
@@ -81,8 +84,11 @@ Compare Pull Request Jerry Branch Add Contact Info
 ![PullRequestJerryBranch](./img/20.ComparingAndPullRequestJerryBranchAddContactInfo.png)
 ![CreatePullRequest](./img/21.CreatePullRequestJerryBranch.png)
 
+Jerry's PR And Reviewed And No Conflicts With Main Branch
+![JerryPullRequestNoConflictWithBaseBranch](./img/30.TomBranchUpdatedWithoutConflictsWithBaseBranch.png)
+
 Merge Jerry Branch Add Contact Info
 ![MergeJerryBranch](./img/22.MergeJerryBranchPullRequest.png)
 
-Pull Request Successfully Merged
+Jerry's Branch Pull Request Successfully Merged
 ![PullRequestMerged](./img/23.PullRequestSuccessfullyMerged.png)
